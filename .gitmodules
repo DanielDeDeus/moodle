@@ -97,3 +97,6 @@
 [submodule "blocks/xp"]
 	path = blocks/xp
 	url = https://github.com/FMCorz/moodle-block_xp.git
+[submodule "mod/palestra"]
+	path = mod/palestra
+	url = https://github.com/interlegis/moodle-mod_palestra
